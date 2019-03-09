@@ -2,11 +2,6 @@
 
 A curated list of C++ graphics libraries
 
-#### Table of Contents
-* [Graphics Libraries](#graphics-libraries)
-* [Game Engines](#game-engines)
-* [Contributing](#contributing)
-
 ### Graphics Libraries
 
 * [Diligent Engine](http://diligentgraphics.com/diligent-engine/) - Modern cross-platform low-level graphics library. [[github](https://github.com/DiligentGraphics/DiligentEngine) ![DiligentGraphics/DiligentEngine](https://img.shields.io/github/stars/DiligentGraphics/DiligentEngine.svg?style=social&label=Star&maxAge=2592000)]
