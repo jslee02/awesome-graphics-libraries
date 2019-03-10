@@ -16,12 +16,14 @@ A curated list of C++ graphics libraries
 ### Game Engines
 
 * [CRYENGINE](https://www.cryengine.com/)
-* [GODOT](https://godotengine.org/)
+* [GODOT](https://godotengine.org/) - Multi-platform 2D and 3D game engine. [[github](https://github.com/godotengine/godot) ![godotengine/godot](https://img.shields.io/github/stars/godotengine/godot.svg?style=social&label=Star&maxAge=2592000)]
 * [Lumberyard](https://aws.amazon.com/lumberyard/)
 * [LumixEngine](https://mikulasflorek.itch.io/lumix-engine)
 * [Unity3D](https://unity3d.com/)
-* [Unreal Engine](https://www.unrealengine.com/)
+* [Unreal Engine](https://www.unrealengine.com/) - Multi-platform 2D and 3D game engine. [[github](https://github.com/EpicGames/UnrealEngine) ![EpicGames/UnrealEngine](https://img.shields.io/github/stars/EpicGames/UnrealEngine.svg?style=social&label=Star&maxAge=2592000) :lock:]
 * [Wicked Engine](https://wickedengine.net/) - C++ game engine focusing on modern rendering techniques. [[github](https://github.com/turanszkij/WickedEngine) ![turanszkij/WickedEngine](https://img.shields.io/github/stars/turanszkij/WickedEngine.svg?style=social&label=Star&maxAge=2592000)]
+
+> :lock:: needs sign-up to access code.
 
 ## [Contributing](#awesome-graphics-libraries)
 
