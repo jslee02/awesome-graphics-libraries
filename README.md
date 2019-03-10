@@ -21,6 +21,7 @@ A curated list of C++ graphics libraries
 * [LumixEngine](https://mikulasflorek.itch.io/lumix-engine)
 * [Unity3D](https://unity3d.com/)
 * [Unreal Engine](https://www.unrealengine.com/)
+* [Wicked Engine](https://wickedengine.net/) - C++ game engine focusing on modern rendering techniques. [[github](https://github.com/turanszkij/WickedEngine) ![turanszkij/WickedEngine](https://img.shields.io/github/stars/turanszkij/WickedEngine.svg?style=social&label=Star&maxAge=2592000)]
 
 ## [Contributing](#awesome-graphics-libraries)
 
