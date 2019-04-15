@@ -12,6 +12,7 @@ A curated list of C++ graphics libraries
 * [OGRE3D](https://www.ogre3d.org/) - Scene-oriented flexible 3D engine written in C++. [[bitbucket](https://bitbucket.org/sinbad/ogre)]
 * [OpenSceneGraph](http://www.openscenegraph.org/) - High performance 3D graphics toolkit. [[github](https://github.com/openscenegraph/OpenSceneGraph) ![openscenegraph/OpenSceneGraph](https://img.shields.io/github/stars/openscenegraph/OpenSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
 * [OptiX](https://developer.nvidia.com/optix) - Application framework for achieving optimal ray tracing performance on the GPU
+* [OSPRay](http://www.ospray.org/) - Ray tracing based rendering engine for high-fidelity visualization. [[github](https://github.com/ospray/OSPRay) ![ospray/OSPRay](https://img.shields.io/github/stars/ospray/OSPRay.svg?style=social&label=Star&maxAge=2592000)]
 
 ### Game Engines
 
