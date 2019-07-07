@@ -19,6 +19,8 @@ A curated list of C++ graphics libraries
 
 ### Game Engines
 
+* [AnKi 3D Engine](http://anki3d.org/) - Vulkan backend, modern renderer, scripting, physics and more [[github](https://github.com/godlikepanos/anki-3d-engine) ![godlikepanos/anki-3d-engine](https://img.shields.io/github/stars/godlikepanos/anki-3d-engine.svg?style=social&label=Star&maxAge=2592000)]
+* [Lumberyard](https://aws.amazon.com/lumberyard/)
 * [CRYENGINE](https://www.cryengine.com/)
 * [GODOT](https://godotengine.org/) - Multi-platform 2D and 3D game engine. [[github](https://github.com/godotengine/godot) ![godotengine/godot](https://img.shields.io/github/stars/godotengine/godot.svg?style=social&label=Star&maxAge=2592000)]
 * [Lumberyard](https://aws.amazon.com/lumberyard/)
