@@ -17,6 +17,7 @@ A curated list of C++ graphics libraries
 * [Polyscope](http://polyscope.run/) - Prototyping-oriented UI for geometric algorithms. [[github](https://github.com/nmwsharp/polyscope) ![nmwsharp/polyscope](https://img.shields.io/github/stars/nmwsharp/polyscope.svg?style=social&label=Star&maxAge=2592000)]
 * [Taichi](http://taichi.graphics/) - Computer graphics R&D infrastructure [[github](https://github.com/yuanming-hu/taichi) ![yuanming-hu/taichi](https://img.shields.io/github/stars/yuanming-hu/taichi.svg?style=social&label=Star&maxAge=2592000)]
 * The Forge - Cross-platform rendering framework. [[github](https://github.com/ConfettiFX/The-Forge) ![ConfettiFX/The-Forge](https://img.shields.io/github/stars/ConfettiFX/The-Forge.svg?style=social&label=Star&maxAge=2592000)]
+* [VulkanSceneGraph](https://vsg-dev.github.io/VulkanSceneGraph/) - Vulkan & C++17 based Scene Graph Project  [[github](https://github.com/vsg-dev/VulkanSceneGraph) ![vsg-dev/VulkanSceneGraph](https://img.shields.io/github/stars/vsg-dev/VulkanSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
 
 ### Game Engines
 
