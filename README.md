@@ -25,7 +25,6 @@ A curated list of C++ graphics libraries
 * [Lumberyard](https://aws.amazon.com/lumberyard/)
 * [CRYENGINE](https://www.cryengine.com/)
 * [GODOT](https://godotengine.org/) - Multi-platform 2D and 3D game engine. [[github](https://github.com/godotengine/godot) ![godotengine/godot](https://img.shields.io/github/stars/godotengine/godot.svg?style=social&label=Star&maxAge=2592000)]
-* [Lumberyard](https://aws.amazon.com/lumberyard/)
 * [LumixEngine](https://mikulasflorek.itch.io/lumix-engine) - Open source 3D Game Engine. [[github](https://github.com/nem0/lumixengine) ![nem0/lumixengine](https://img.shields.io/github/stars/nem0/lumixengine.svg?style=social&label=Star&maxAge=2592000)]
 * [Unity3D](https://unity3d.com/)
 * [Unreal Engine](https://www.unrealengine.com/) - Multi-platform 2D and 3D game engine. [[github](https://github.com/EpicGames/UnrealEngine) ![EpicGames/UnrealEngine](https://img.shields.io/github/stars/EpicGames/UnrealEngine.svg?style=social&label=Star&maxAge=2592000) :lock:]
