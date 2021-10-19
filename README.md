@@ -4,6 +4,7 @@ A curated list of C++ graphics libraries
 
 ### Graphics Libraries
 
+* [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - High-level AR framework for replicating Hololens with Google Cardboard. [[github](https://github.com/philipturner/ARHeadsetKit) ![philipturner/ARHeadsetKit](https://img.shields.io/github/stars/philipturner/ARHeadsetKit.svg?style=social&label=Star&maxAge=2592000)]
 * [bgfx](https://bkaradzic.github.io/bgfx/overview.html) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style library. [[github](https://github.com/bkaradzic/bgfx) ![bkaradzic/bgfx](https://img.shields.io/github/stars/bkaradzic/bgfx.svg?style=social&label=Star&maxAge=2592000)]
 * bs::framework - Modern C++14 library for the development of real-time graphical applications  [[github](https://github.com/GameFoundry/bsf) ![GameFoundry/bsf](https://img.shields.io/github/stars/GameFoundry/bsf.svg?style=social&label=Star&maxAge=2592000)]
 * [Diligent Engine](http://diligentgraphics.com/diligent-engine/) - Modern cross-platform low-level graphics library. [[github](https://github.com/DiligentGraphics/DiligentEngine) ![DiligentGraphics/DiligentEngine](https://img.shields.io/github/stars/DiligentGraphics/DiligentEngine.svg?style=social&label=Star&maxAge=2592000)]
