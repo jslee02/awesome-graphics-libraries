@@ -27,6 +27,7 @@ A curated list of C++ graphics libraries
 * [GODOT](https://godotengine.org/) - Multi-platform 2D and 3D game engine. [[github](https://github.com/godotengine/godot) ![godotengine/godot](https://img.shields.io/github/stars/godotengine/godot.svg?style=social&label=Star&maxAge=2592000)]
 * [Lumberyard](https://aws.amazon.com/lumberyard/) - Free game engine with native integration to the AWS Cloud and Twitch features.
 * [LumixEngine](https://mikulasflorek.itch.io/lumix-engine) - Open source 3D Game Engine. [[github](https://github.com/nem0/lumixengine) ![nem0/lumixengine](https://img.shields.io/github/stars/nem0/lumixengine.svg?style=social&label=Star&maxAge=2592000)]
+* [O3DE](https://o3de.org/) - Real-time 3D development engine. [[github](https://github.com/o3de/o3de) ![o3de/o3de](https://img.shields.io/github/stars/o3de/o3de.svg?style=social&label=Star&maxAge=2592000)]
 * [Overload](http://overloadengine.org/) - Game engine inspired by industry standards. [[github](https://github.com/adriengivry/Overload) ![adriengivry/Overload](https://img.shields.io/github/stars/adriengivry/Overload.svg?style=social&label=Star&maxAge=2592000)]
 * [Rootex](https://rootex.readthedocs.io/) - Advanced C++ 3D game engine. [[github](https://github.com/sdslabs/Rootex) ![sdslabs/Rootex](https://img.shields.io/github/stars/sdslabs/Rootex.svg?style=social&label=Star&maxAge=2592000)]
 * [Unity3D](https://unity3d.com/)
