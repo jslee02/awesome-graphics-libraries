@@ -21,6 +21,10 @@ A curated list of C++ graphics libraries
 * The Forge - Cross-platform rendering framework. [[github](https://github.com/ConfettiFX/The-Forge) ![ConfettiFX/The-Forge](https://img.shields.io/github/stars/ConfettiFX/The-Forge.svg?style=social&label=Star&maxAge=2592000)]
 * [VulkanSceneGraph](https://vsg-dev.github.io/VulkanSceneGraph/) - Vulkan & C++17 based Scene Graph Project  [[github](https://github.com/vsg-dev/VulkanSceneGraph) ![vsg-dev/VulkanSceneGraph](https://img.shields.io/github/stars/vsg-dev/VulkanSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
 
+### Geometry Processing
+
+* [libigl](https://libigl.github.io/) - Simple C++ geometry processing library. [[github](https://github.com/libigl/libigl) ![libigl/libigl](https://img.shields.io/github/stars/libigl/libigl.svg?style=social&label=Star&maxAge=2592000)]
+
 ### Game Engines
 
 * [AnKi 3D Engine](http://anki3d.org/) - Vulkan backend, modern renderer, scripting, physics and more [[github](https://github.com/godlikepanos/anki-3d-engine) ![godlikepanos/anki-3d-engine](https://img.shields.io/github/stars/godlikepanos/anki-3d-engine.svg?style=social&label=Star&maxAge=2592000)]
