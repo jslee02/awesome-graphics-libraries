@@ -2,7 +2,9 @@
 
 A curated list of C++ graphics libraries
 
-### Graphics Libraries
+## Graphics Libraries
+
+### C++
 
 * [bgfx](https://bkaradzic.github.io/bgfx/overview.html) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style library. [[github](https://github.com/bkaradzic/bgfx) ![bkaradzic/bgfx](https://img.shields.io/github/stars/bkaradzic/bgfx.svg?style=social&label=Star&maxAge=2592000)]
 * bs::framework - Modern C++14 library for the development of real-time graphical applications  [[github](https://github.com/GameFoundry/bsf) ![GameFoundry/bsf](https://img.shields.io/github/stars/GameFoundry/bsf.svg?style=social&label=Star&maxAge=2592000)]
@@ -21,15 +23,18 @@ A curated list of C++ graphics libraries
 * [RAMSES](https://ramses3d.org) - 3D engine designed for embedded real-time and distributed rendering [[github](https://github.com/bmwcarit/ramses) ![ramses](https://img.shields.io/github/stars/bmwcarit/ramses.svg?style=social&label=Star&maxAge=2592000)]
 * [Taichi](http://taichi.graphics/) - Computer graphics R&D infrastructure [[github](https://github.com/yuanming-hu/taichi) ![yuanming-hu/taichi](https://img.shields.io/github/stars/yuanming-hu/taichi.svg?style=social&label=Star&maxAge=2592000)]
 * The Forge - Cross-platform rendering framework. [[github](https://github.com/ConfettiFX/The-Forge) ![ConfettiFX/The-Forge](https://img.shields.io/github/stars/ConfettiFX/The-Forge.svg?style=social&label=Star&maxAge=2592000)]
-* [three-d](https://github.com/asny/three-d/) - A OpenGL/WebGL/OpenGL ES renderer in Rust which seeks to make graphics simple but still have the power to draw exactly what you want. [[github](https://github.com/asny/three-d/) ![asny/three-d/](https://img.shields.io/github/stars/asny/three-d.svg?style=social&label=Star&maxAge=2592000)]
 * [VulkanSceneGraph](https://vsg-dev.github.io/VulkanSceneGraph/) - Vulkan & C++17 based Scene Graph Project  [[github](https://github.com/vsg-dev/VulkanSceneGraph) ![vsg-dev/VulkanSceneGraph](https://img.shields.io/github/stars/vsg-dev/VulkanSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
+
+### Rust
+
+* [three-d](https://github.com/asny/three-d/) - A OpenGL/WebGL/OpenGL ES renderer in Rust which seeks to make graphics simple but still have the power to draw exactly what you want. [[github](https://github.com/asny/three-d/) ![asny/three-d/](https://img.shields.io/github/stars/asny/three-d.svg?style=social&label=Star&maxAge=2592000)]
 * [wgpu](https://wgpu.rs/) - is a cross-platform, safe, Rust graphics API. It runs natively on Vulkan, Metal, D3D12, D3D11, and OpenGLES; and on top of WebGPU/WebGL on wasm. The API is based on the WebGPU standard. It serves as the core of the WebGPU integration in Firefox, Servo, and Deno. [[github](https://github.com/gfx-rs/wgpu) ![gfx-rs/wgpu](https://img.shields.io/github/stars/gfx-rs/wgpu.svg?style=social&label=Star&maxAge=2592000)]
 
-### Geometry Processing
+## Geometry Processing
 
 * [libigl](https://libigl.github.io/) - Simple C++ geometry processing library. [[github](https://github.com/libigl/libigl) ![libigl/libigl](https://img.shields.io/github/stars/libigl/libigl.svg?style=social&label=Star&maxAge=2592000)]
 
-### Game Engines
+#### Game Engines
 
 * [AnKi 3D Engine](http://anki3d.org/) - Vulkan backend, modern renderer, scripting, physics and more [[github](https://github.com/godlikepanos/anki-3d-engine) ![godlikepanos/anki-3d-engine](https://img.shields.io/github/stars/godlikepanos/anki-3d-engine.svg?style=social&label=Star&maxAge=2592000)]
 * [CRYENGINE](https://www.cryengine.com/)
