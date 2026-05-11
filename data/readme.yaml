@@ -6,6 +6,8 @@ sections:
   - title: C++
     content:
     - ''
+    - '* ANARI-SDK - ANARI Software Development Kit for 3D rendering and visualization.
+      [[github](https://github.com/KhronosGroup/ANARI-SDK) ![KhronosGroup/ANARI-SDK](https://img.shields.io/github/stars/KhronosGroup/ANARI-SDK.svg?style=social&label=Star&maxAge=2592000)]'
     - '* [bgfx](https://bkaradzic.github.io/bgfx/overview.html) - Cross-platform,
       graphics API agnostic, "Bring Your Own Engine/Framework" style library. [[github](https://github.com/bkaradzic/bgfx)
       ![bkaradzic/bgfx](https://img.shields.io/github/stars/bkaradzic/bgfx.svg?style=social&label=Star&maxAge=2592000)]'
@@ -100,14 +102,3 @@ sections:
     - '> :lock:: needs sign-up to access code.'
     - ''
     sections: []
-- title: '[Contributing](#awesome-graphics-libraries)'
-  content:
-  - ''
-  - Contributions are very welcome! Also, please feel free to report any error.
-  - ''
-  sections: []
-- title: '[License](#awesome-graphics-libraries)'
-  content:
-  - ''
-  - '[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)'
-  sections: []
