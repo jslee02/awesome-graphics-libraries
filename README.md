@@ -1,8 +1,20 @@
 # Awesome Graphics Libraries
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of C++ graphics libraries
 
-## Graphics Libraries
+## Contents
+
+- [Graphics Libraries](#graphics-libraries)
+  - [C++](#c)
+  - [Rust](#rust)
+- [Geometry Processing](#geometry-processing)
+  - [Game Engines](#game-engines)
+- [[Contributing](#awesome-graphics-libraries)](#contributingawesome-graphics-libraries)
+- [[License](#awesome-graphics-libraries)](#licenseawesome-graphics-libraries)
+
+## [Graphics Libraries](#contents)
 
 ### C++
 
@@ -23,18 +35,18 @@ A curated list of C++ graphics libraries
 * [RAMSES](https://ramses3d.org) - 3D engine designed for embedded real-time and distributed rendering [[github](https://github.com/bmwcarit/ramses) ![ramses](https://img.shields.io/github/stars/bmwcarit/ramses.svg?style=social&label=Star&maxAge=2592000)]
 * [Taichi](http://taichi.graphics/) - Computer graphics R&D infrastructure [[github](https://github.com/yuanming-hu/taichi) ![yuanming-hu/taichi](https://img.shields.io/github/stars/yuanming-hu/taichi.svg?style=social&label=Star&maxAge=2592000)]
 * The Forge - Cross-platform rendering framework. [[github](https://github.com/ConfettiFX/The-Forge) ![ConfettiFX/The-Forge](https://img.shields.io/github/stars/ConfettiFX/The-Forge.svg?style=social&label=Star&maxAge=2592000)]
-* [VulkanSceneGraph](https://vsg-dev.github.io/VulkanSceneGraph/) - Vulkan & C++17 based Scene Graph Project  [[github](https://github.com/vsg-dev/VulkanSceneGraph) ![vsg-dev/VulkanSceneGraph](https://img.shields.io/github/stars/vsg-dev/VulkanSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
+* [VulkanSceneGraph](https://vsg-dev.github.io/vsg-dev.io/) - Vulkan & C++17 based Scene Graph Project  [[github](https://github.com/vsg-dev/VulkanSceneGraph) ![vsg-dev/VulkanSceneGraph](https://img.shields.io/github/stars/vsg-dev/VulkanSceneGraph.svg?style=social&label=Star&maxAge=2592000)]
 
 ### Rust
 
 * [three-d](https://github.com/asny/three-d/) - A OpenGL/WebGL/OpenGL ES renderer in Rust which seeks to make graphics simple but still have the power to draw exactly what you want. [[github](https://github.com/asny/three-d/) ![asny/three-d/](https://img.shields.io/github/stars/asny/three-d.svg?style=social&label=Star&maxAge=2592000)]
 * [wgpu](https://wgpu.rs/) - is a cross-platform, safe, Rust graphics API. It runs natively on Vulkan, Metal, D3D12, D3D11, and OpenGLES; and on top of WebGPU/WebGL on wasm. The API is based on the WebGPU standard. It serves as the core of the WebGPU integration in Firefox, Servo, and Deno. [[github](https://github.com/gfx-rs/wgpu) ![gfx-rs/wgpu](https://img.shields.io/github/stars/gfx-rs/wgpu.svg?style=social&label=Star&maxAge=2592000)]
 
-## Geometry Processing
+## [Geometry Processing](#contents)
 
 * [libigl](https://libigl.github.io/) - Simple C++ geometry processing library. [[github](https://github.com/libigl/libigl) ![libigl/libigl](https://img.shields.io/github/stars/libigl/libigl.svg?style=social&label=Star&maxAge=2592000)]
 
-#### Game Engines
+### Game Engines
 
 * [AnKi 3D Engine](http://anki3d.org/) - Vulkan backend, modern renderer, scripting, physics and more [[github](https://github.com/godlikepanos/anki-3d-engine) ![godlikepanos/anki-3d-engine](https://img.shields.io/github/stars/godlikepanos/anki-3d-engine.svg?style=social&label=Star&maxAge=2592000)]
 * [CRYENGINE](https://www.cryengine.com/)
@@ -46,15 +58,23 @@ A curated list of C++ graphics libraries
 * [raylib](https://www.raylib.com/) - A simple and easy-to-use library to enjoy videogames programming. [[github](https://github.com/raysan5/raylib) ![raysan5/raylib](https://img.shields.io/github/stars/raysan5/raylib.svg?style=social&label=Star&maxAge=2592000)]
 * [Rootex](https://rootex.readthedocs.io/) - Advanced C++ 3D game engine. [[github](https://github.com/sdslabs/Rootex) ![sdslabs/Rootex](https://img.shields.io/github/stars/sdslabs/Rootex.svg?style=social&label=Star&maxAge=2592000)]
 * [Unity3D](https://unity3d.com/)
-* [Unreal Engine](https://www.unrealengine.com/) - Multi-platform 2D and 3D game engine. [[github](https://github.com/EpicGames/UnrealEngine) ![EpicGames/UnrealEngine](https://img.shields.io/github/stars/EpicGames/UnrealEngine.svg?style=social&label=Star&maxAge=2592000) :lock:]
+* [Unreal Engine](https://www.unrealengine.com/) - Multi-platform 2D and 3D game engine. :lock:
 * [Wicked Engine](https://wickedengine.net/) - C++ game engine focusing on modern rendering techniques. [[github](https://github.com/turanszkij/WickedEngine) ![turanszkij/WickedEngine](https://img.shields.io/github/stars/turanszkij/WickedEngine.svg?style=social&label=Star&maxAge=2592000)]
 
 > :lock:: needs sign-up to access code.
 
-## [Contributing](#awesome-graphics-libraries)
+## [[Contributing](#awesome-graphics-libraries)](#contents)
 
 Contributions are very welcome! Also, please feel free to report any error.
 
-## [License](#awesome-graphics-libraries)
+## [[License](#awesome-graphics-libraries)](#contents)
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+## [Contributing](#contents)
+
+Contributions are very welcome. Please read the [contribution guidelines](CONTRIBUTING.md) first. Also, please feel free to report any error.
+
+## [License](#contents)
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

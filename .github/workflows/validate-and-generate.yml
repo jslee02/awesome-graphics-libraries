@@ -1,0 +1,15 @@
+name: Validate Data
+
+on:
+  pull_request:
+    paths:
+      - "awesome-list.yaml"
+      - "data/**"
+      - "scripts/**"
+
+jobs:
+  validate:
+    uses: jslee02/awesome-list-infra/.github/workflows/validate-data.yml@main
+    with:
+      dependencies: "pyyaml git+https://github.com/jslee02/awesome-list-infra.git"
+
