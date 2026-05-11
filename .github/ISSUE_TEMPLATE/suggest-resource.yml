@@ -1,0 +1,58 @@
+name: Suggest a Resource
+description: Suggest a resource to add to this awesome list
+title: "[Suggestion] "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Resource Name
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Primary project, paper, article, or landing-page URL.
+    validations:
+      required: true
+
+  - type: input
+    id: github
+    attributes:
+      label: GitHub Repository
+      description: "GitHub `owner/repo` slug if available. Leave blank for non-GitHub resources."
+      placeholder: owner/repo
+
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      description: Existing section or subsection where this resource belongs.
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Short factual description.
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should it be included?
+      description: Explain why this is a strong fit for the list.
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: Publicly accessible
+        - label: Not a duplicate of an existing entry
+        - label: Has a meaningful description
+
