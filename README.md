@@ -11,13 +11,12 @@ A curated list of C++ graphics libraries
   - [Rust](#rust)
 - [Geometry Processing](#geometry-processing)
   - [Game Engines](#game-engines)
-- [[Contributing](#awesome-graphics-libraries)](#contributingawesome-graphics-libraries)
-- [[License](#awesome-graphics-libraries)](#licenseawesome-graphics-libraries)
 
 ## [Graphics Libraries](#contents)
 
 ### C++
 
+* ANARI-SDK - ANARI Software Development Kit for 3D rendering and visualization. [[github](https://github.com/KhronosGroup/ANARI-SDK) ![KhronosGroup/ANARI-SDK](https://img.shields.io/github/stars/KhronosGroup/ANARI-SDK.svg?style=social&label=Star&maxAge=2592000)]
 * [bgfx](https://bkaradzic.github.io/bgfx/overview.html) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style library. [[github](https://github.com/bkaradzic/bgfx) ![bkaradzic/bgfx](https://img.shields.io/github/stars/bkaradzic/bgfx.svg?style=social&label=Star&maxAge=2592000)]
 * [Diligent Engine](http://diligentgraphics.com/diligent-engine/) - Modern cross-platform low-level graphics library. [[github](https://github.com/DiligentGraphics/DiligentEngine) ![DiligentGraphics/DiligentEngine](https://img.shields.io/github/stars/DiligentGraphics/DiligentEngine.svg?style=social&label=Star&maxAge=2592000)]
 * Easy3D - A lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data [[github](https://github.com/LiangliangNan/Easy3D) ![LiangliangNan/Easy3D](https://img.shields.io/github/stars/LiangliangNan/Easy3D.svg?style=social&label=Star&maxAge=2592000)]
@@ -62,14 +61,6 @@ A curated list of C++ graphics libraries
 * [Wicked Engine](https://wickedengine.net/) - C++ game engine focusing on modern rendering techniques. [[github](https://github.com/turanszkij/WickedEngine) ![turanszkij/WickedEngine](https://img.shields.io/github/stars/turanszkij/WickedEngine.svg?style=social&label=Star&maxAge=2592000)]
 
 > :lock:: needs sign-up to access code.
-
-## [[Contributing](#awesome-graphics-libraries)](#contents)
-
-Contributions are very welcome! Also, please feel free to report any error.
-
-## [[License](#awesome-graphics-libraries)](#contents)
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## [Contributing](#contents)
 
