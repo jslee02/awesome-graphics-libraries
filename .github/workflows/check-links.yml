@@ -1,0 +1,21 @@
+name: Check Links
+
+on:
+  schedule:
+    - cron: "0 8 * * 1"
+  push:
+    branches: [main]
+    paths: ["**.md"]
+  pull_request:
+    paths: ["**.md"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  check-links:
+    uses: jslee02/awesome-list-infra/.github/workflows/check-links.yml@main
+
