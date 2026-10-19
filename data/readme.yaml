@@ -104,7 +104,7 @@ sections:
         license: Apache-2.0
         language: C++
     - name: OSPRay
-      url: http://www.ospray.org/
+      url: https://www.ospray.org/
       description: Ray tracing based rendering engine for high-fidelity visualization.
       github: ospray/OSPRay
       _meta:
@@ -139,7 +139,7 @@ sections:
         license: Other
         language: C++
     - name: Taichi
-      url: http://taichi.graphics/
+      url: https://taichi.graphics/
       description: Computer graphics R&D infrastructure
       github: yuanming-hu/taichi
       _meta:
@@ -250,7 +250,7 @@ sections:
         license: Other
         language: C++
     - name: Overload
-      url: http://overloadengine.org/
+      url: https://overloadengine.org/
       description: Game engine inspired by industry standards.
       github: adriengivry/Overload
       _meta:
