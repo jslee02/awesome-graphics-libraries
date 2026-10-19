@@ -10,8 +10,8 @@ sections:
       description: ANARI Software Development Kit for 3D rendering and visualization.
       github: KhronosGroup/ANARI-SDK
       _meta:
-        stars: 287
-        last_commit: '2026-05-07'
+        stars: 305
+        last_commit: '2026-10-15'
         license: Apache-2.0
         language: C++
     - name: bgfx
@@ -20,17 +20,17 @@ sections:
         style library.
       github: bkaradzic/bgfx
       _meta:
-        stars: 17016
-        last_commit: '2026-05-04'
+        stars: 17562
+        last_commit: '2026-10-15'
         license: BSD-2-Clause
-        language: C
+        language: C++
     - name: Diligent Engine
       url: http://diligentgraphics.com/diligent-engine/
       description: Modern cross-platform low-level graphics library.
       github: DiligentGraphics/DiligentEngine
       _meta:
-        stars: 4290
-        last_commit: '2026-05-11'
+        stars: 4472
+        last_commit: '2026-10-05'
         license: Apache-2.0
         language: Batchfile
     - name: Easy3D
@@ -38,8 +38,8 @@ sections:
         and rendering 3D data
       github: LiangliangNan/Easy3D
       _meta:
-        stars: 1618
-        last_commit: '2026-03-28'
+        stars: 1656
+        last_commit: '2026-08-27'
         license: GPL-3.0
         language: C++
     - name: Falcor
@@ -47,8 +47,8 @@ sections:
       description: Real-time rendering framework designed specifically for rapid prototyping.
       github: NVIDIAGameWorks/Falcor
       _meta:
-        stars: 3156
-        last_commit: '2025-01-07'
+        stars: 3256
+        last_commit: '2026-09-21'
         license: Other
         language: C++
     - name: Filament
@@ -56,21 +56,21 @@ sections:
       description: Real-time physically based rendering engine.
       github: google/filament
       _meta:
-        stars: 20039
-        last_commit: '2026-05-08'
+        stars: 20608
+        last_commit: '2026-10-15'
         license: Apache-2.0
         language: C++
-    - '* [Irrlicht](https://irrlicht.sourceforge.io/) - The Irrlicht Engine is an open
-      source realtime 3D engine written in C++. It is a cross-platform library, using
-      D3D, OpenGL and its own software renderers.'
+    - '* [Irrlicht](https://irrlicht.sourceforge.io/) - The Irrlicht Engine is an
+      open source realtime 3D engine written in C++. It is a cross-platform library,
+      using D3D, OpenGL and its own software renderers.'
     - name: Magnum
       url: https://magnum.graphics/
       description: Lightweight and modular graphics middleware for games and data
         visualization.
       github: mosra/magnum
       _meta:
-        stars: 5156
-        last_commit: '2026-05-07'
+        stars: 5220
+        last_commit: '2026-10-07'
         license: Other
         language: C++
     - name: OGRE3D
@@ -78,8 +78,8 @@ sections:
       description: Scene-oriented flexible 3D engine written in C++.
       github: OGRECave/ogre
       _meta:
-        stars: 4561
-        last_commit: '2026-05-01'
+        stars: 4675
+        last_commit: '2026-10-14'
         license: MIT
         language: C++
     - name: OpenSceneGraph
@@ -87,7 +87,7 @@ sections:
       description: High performance 3D graphics toolkit.
       github: openscenegraph/OpenSceneGraph
       _meta:
-        stars: 3576
+        stars: 3619
         last_commit: '2022-12-01'
         license: Other
         language: C++
@@ -99,7 +99,7 @@ sections:
       description: A convenience/productivity-oriented library on top of OptiX
       github: owl-project/owl
       _meta:
-        stars: 257
+        stars: 259
         last_commit: '2025-10-24'
         license: Apache-2.0
         language: C++
@@ -108,16 +108,16 @@ sections:
       description: Ray tracing based rendering engine for high-fidelity visualization.
       github: ospray/OSPRay
       _meta:
-        stars: 1083
-        last_commit: '2026-03-18'
+        stars: 1102
+        last_commit: '2026-10-02'
         license: Apache-2.0
         language: C++
     - name: Pangolin
       description: lightweight and portable utility libraries for prototyping 3D.
       github: stevenlovegrove/Pangolin
       _meta:
-        stars: 2716
-        last_commit: '2026-04-10'
+        stars: 2750
+        last_commit: '2026-08-19'
         license: MIT
         language: C++
     - name: Polyscope
@@ -125,8 +125,8 @@ sections:
       description: Prototyping-oriented UI for geometric algorithms.
       github: nmwsharp/polyscope
       _meta:
-        stars: 2163
-        last_commit: '2026-05-03'
+        stars: 2217
+        last_commit: '2026-09-06'
         license: MIT
         language: C++
     - name: RAMSES
@@ -134,7 +134,7 @@ sections:
       description: 3D engine designed for embedded real-time and distributed rendering
       github: bmwcarit/ramses
       _meta:
-        stars: 376
+        stars: 382
         last_commit: '2024-06-12'
         license: Other
         language: C++
@@ -143,7 +143,7 @@ sections:
       description: Computer graphics R&D infrastructure
       github: yuanming-hu/taichi
       _meta:
-        stars: 411
+        stars: 413
         last_commit: '2023-09-03'
         license: Apache-2.0
         language: C++
@@ -151,8 +151,8 @@ sections:
       description: Cross-platform rendering framework.
       github: ConfettiFX/The-Forge
       _meta:
-        stars: 5537
-        last_commit: '2025-07-03'
+        stars: 5687
+        last_commit: '2026-08-27'
         license: Apache-2.0
         language: C++
     - name: VulkanSceneGraph
@@ -160,8 +160,8 @@ sections:
       description: Vulkan & C++17 based Scene Graph Project
       github: vsg-dev/VulkanSceneGraph
       _meta:
-        stars: 1760
-        last_commit: '2026-05-10'
+        stars: 1820
+        last_commit: '2026-10-11'
         license: MIT
         language: C++
     - ''
@@ -171,12 +171,12 @@ sections:
     - ''
     - name: three-d
       url: https://github.com/asny/three-d/
-      description: An OpenGL/WebGL/OpenGL ES renderer in Rust which seeks to make graphics
-        simple but still have the power to draw exactly what you want.
+      description: An OpenGL/WebGL/OpenGL ES renderer in Rust which seeks to make
+        graphics simple but still have the power to draw exactly what you want.
       github: asny/three-d
       _meta:
-        stars: 1624
-        last_commit: '2026-04-17'
+        stars: 1680
+        last_commit: '2026-06-24'
         license: MIT
         language: Rust
     - name: wgpu
@@ -187,8 +187,8 @@ sections:
         WebGPU integration in Firefox, Servo, and Deno.
       github: gfx-rs/wgpu
       _meta:
-        stars: 17109
-        last_commit: '2026-05-08'
+        stars: 18294
+        last_commit: '2026-10-14'
         license: Apache-2.0
         language: Rust
     - ''
@@ -201,8 +201,8 @@ sections:
     description: Simple C++ geometry processing library.
     github: libigl/libigl
     _meta:
-      stars: 5015
-      last_commit: '2026-05-07'
+      stars: 5104
+      last_commit: '2026-09-04'
       license: GPL-3.0
       language: C++
   - ''
@@ -215,8 +215,8 @@ sections:
       description: Vulkan backend, modern renderer, scripting, physics and more
       github: godlikepanos/anki-3d-engine
       _meta:
-        stars: 1579
-        last_commit: '2026-04-28'
+        stars: 1625
+        last_commit: '2026-08-31'
         license: Other
         language: C++
     - '* [CRYENGINE](https://www.cryengine.com/)'
@@ -225,8 +225,8 @@ sections:
       description: Multi-platform 2D and 3D game engine.
       github: godotengine/godot
       _meta:
-        stars: 110541
-        last_commit: '2026-05-07'
+        stars: 118437
+        last_commit: '2026-10-15'
         license: MIT
         language: C++
     - '* [Lumberyard](https://aws.amazon.com/lumberyard/) - Free game engine with
@@ -236,8 +236,8 @@ sections:
       description: Open source 3D Game Engine.
       github: nem0/lumixengine
       _meta:
-        stars: 3810
-        last_commit: '2026-02-15'
+        stars: 3895
+        last_commit: '2026-10-14'
         license: MIT
         language: C++
     - name: O3DE
@@ -245,8 +245,8 @@ sections:
       description: Real-time 3D development engine.
       github: o3de/o3de
       _meta:
-        stars: 9089
-        last_commit: '2026-05-10'
+        stars: 9752
+        last_commit: '2026-10-14'
         license: Other
         language: C++
     - name: Overload
@@ -254,8 +254,8 @@ sections:
       description: Game engine inspired by industry standards.
       github: adriengivry/Overload
       _meta:
-        stars: 2434
-        last_commit: '2026-05-04'
+        stars: 2495
+        last_commit: '2026-10-05'
         license: MIT
         language: C++
     - name: raylib
@@ -263,8 +263,8 @@ sections:
       description: A simple and easy-to-use library to enjoy videogames programming.
       github: raysan5/raylib
       _meta:
-        stars: 32877
-        last_commit: '2026-05-10'
+        stars: 35188
+        last_commit: '2026-10-15'
         license: Zlib
         language: C
     - name: Rootex
@@ -272,7 +272,7 @@ sections:
       description: Advanced C++ 3D game engine.
       github: sdslabs/Rootex
       _meta:
-        stars: 231
+        stars: 235
         last_commit: '2023-08-24'
         license: Other
         language: C++
@@ -284,11 +284,12 @@ sections:
       description: C++ game engine focusing on modern rendering techniques.
       github: turanszkij/WickedEngine
       _meta:
-        stars: 7032
-        last_commit: '2026-05-08'
+        stars: 7293
+        last_commit: '2026-10-15'
         license: MIT
-        language: C
+        language: C++
     - ''
     - '> :lock:: needs sign-up to access code.'
     - ''
     sections: []
+as_of: '2026-10-15'
