@@ -51,12 +51,12 @@ A curated list of C++ graphics libraries
 
 * 🟢 [AnKi 3D Engine](http://anki3d.org/) - Vulkan backend, modern renderer, scripting, physics and more [⭐ 1.6k](https://github.com/godlikepanos/anki-3d-engine)
 * [CRYENGINE](https://www.cryengine.com/)
-* 🟢 [GODOT](https://godotengine.org/) - Multi-platform 2D and 3D game engine. [⭐ 118.4k](https://github.com/godotengine/godot)
+* 🟢 [GODOT](https://godotengine.org/) - Multi-platform 2D and 3D game engine. [⭐ 118.9k](https://github.com/godotengine/godot)
 * [Lumberyard](https://aws.amazon.com/lumberyard/) - Free game engine with native integration to the AWS Cloud and Twitch features.
 * 🟢 [LumixEngine](https://mikulasflorek.itch.io/lumix-engine) - Open source 3D Game Engine. [⭐ 3.9k](https://github.com/nem0/lumixengine)
 * 🟢 [O3DE](https://o3de.org/) - Real-time 3D development engine. [⭐ 9.8k](https://github.com/o3de/o3de)
 * 🟢 [Overload](http://overloadengine.org/) - Game engine inspired by industry standards. [⭐ 2.5k](https://github.com/adriengivry/Overload)
-* 🟢 [raylib](https://www.raylib.com/) - A simple and easy-to-use library to enjoy videogames programming. [⭐ 35.2k](https://github.com/raysan5/raylib)
+* 🟢 [raylib](https://www.raylib.com/) - A simple and easy-to-use library to enjoy videogames programming. [⭐ 35.4k](https://github.com/raysan5/raylib)
 * 🔴 [Rootex](https://rootex.readthedocs.io/) - Advanced C++ 3D game engine. [⭐ 235](https://github.com/sdslabs/Rootex)
 * [Unity3D](https://unity3d.com/)
 * [Unreal Engine](https://www.unrealengine.com/) - Multi-platform 2D and 3D game engine. :lock:
