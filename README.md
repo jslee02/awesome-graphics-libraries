@@ -30,11 +30,11 @@ A curated list of C++ graphics libraries
 * 🔴 [OpenSceneGraph](http://www.openscenegraph.org/) - High performance 3D graphics toolkit. [⭐ 3.6k](https://github.com/openscenegraph/OpenSceneGraph)
 * [OptiX](https://developer.nvidia.com/optix) - Application framework for achieving optimal ray tracing performance on the GPU
   * 🟢 [OWL](https://owl-project.github.io/) - A convenience/productivity-oriented library on top of OptiX [⭐ 259](https://github.com/owl-project/owl)
-* 🟢 [OSPRay](http://www.ospray.org/) - Ray tracing based rendering engine for high-fidelity visualization. [⭐ 1.1k](https://github.com/ospray/OSPRay)
+* 🟢 [OSPRay](https://www.ospray.org/) - Ray tracing based rendering engine for high-fidelity visualization. [⭐ 1.1k](https://github.com/RenderKit/ospray)
 * 🟢 Pangolin - lightweight and portable utility libraries for prototyping 3D. [⭐ 2.8k](https://github.com/stevenlovegrove/Pangolin)
 * 🟢 [Polyscope](http://polyscope.run/) - Prototyping-oriented UI for geometric algorithms. [⭐ 2.2k](https://github.com/nmwsharp/polyscope)
 * 🔴 [RAMSES](https://ramses3d.org) - 3D engine designed for embedded real-time and distributed rendering [⭐ 382](https://github.com/bmwcarit/ramses)
-* 🔴 [Taichi](http://taichi.graphics/) - Computer graphics R&D infrastructure [⭐ 413](https://github.com/yuanming-hu/taichi)
+* 🔴 [Taichi](https://taichi.graphics/) - Computer graphics R&D infrastructure [⭐ 413](https://github.com/yuanming-hu/taichi)
 * 🟢 The Forge - Cross-platform rendering framework. [⭐ 5.7k](https://github.com/ConfettiFX/The-Forge)
 * 🟢 [VulkanSceneGraph](https://vsg-dev.github.io/vsg-dev.io/) - Vulkan & C++17 based Scene Graph Project [⭐ 1.8k](https://github.com/vsg-dev/VulkanSceneGraph)
 
@@ -55,7 +55,7 @@ A curated list of C++ graphics libraries
 * [Lumberyard](https://aws.amazon.com/lumberyard/) - Free game engine with native integration to the AWS Cloud and Twitch features.
 * 🟢 [LumixEngine](https://mikulasflorek.itch.io/lumix-engine) - Open source 3D Game Engine. [⭐ 3.9k](https://github.com/nem0/lumixengine)
 * 🟢 [O3DE](https://o3de.org/) - Real-time 3D development engine. [⭐ 9.8k](https://github.com/o3de/o3de)
-* 🟢 [Overload](http://overloadengine.org/) - Game engine inspired by industry standards. [⭐ 2.5k](https://github.com/adriengivry/Overload)
+* 🟢 [Overload](https://overloadengine.org/) - Game engine inspired by industry standards. [⭐ 2.5k](https://github.com/Overload-Technologies/Overload)
 * 🟢 [raylib](https://www.raylib.com/) - A simple and easy-to-use library to enjoy videogames programming. [⭐ 35.2k](https://github.com/raysan5/raylib)
 * 🔴 [Rootex](https://rootex.readthedocs.io/) - Advanced C++ 3D game engine. [⭐ 235](https://github.com/sdslabs/Rootex)
 * [Unity3D](https://unity3d.com/)
